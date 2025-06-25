@@ -1,10 +1,10 @@
 # Raport Cyberbezpieczeństwa
 
 ## 1. Dane osobowe
-- **Imię i nazwisko:** Kevin  
-- **Wiek:** 17 lat  
+- **Imię i nazwisko:** Anonymous
+- **Wiek:** ??
 - **Kierunek zainteresowań:** Penetration Testing (Pene Tester)  
-- **Kontakt:** bibip0662@gmail.com  
+- **Kontakt:** pikola93846@gmail.com
 
 ---
 
@@ -147,7 +147,7 @@ Podstawowe funkcjonalności zestawu “Hydra John”:
 ---
 
 ## 9. Kontakt i współpraca
-- **E-mail:** bibip0662@gmail.com  
+- **E-mail:** pikola93846@gmail.com
 - **GitHub:** [github]:https://github.com/animus1230
 **Szukanie praktyk i mentora:**  
 Jeśli jesteś doświadczonym specjalistą ds. bezpieczeństwa sieci lub penetracji i masz możliwość przyjęcia młodego, ambitnego adepta cyberbezpieczeństwa, proszę o kontakt – jestem otwarty na każde wyzwanie. Liczy się dla mnie jedynie możliwość nauki od ekspertów oraz realne zadania, które pozwolą mi się rozwijać.
@@ -155,7 +155,7 @@ Jeśli jesteś doświadczonym specjalistą ds. bezpieczeństwa sieci lub penetra
 ---
 
 ## 10. Podsumowanie
-Jestem młodym, pełnym zapału entuzjastą cyberbezpieczeństwa. Pomimo że na ten moment nie tworzę własnych programów od podstaw i korzystam z gotowych narzędzi, to jednak posiadam solidną podstawę teoretyczną (solinę podstawę) oraz doświadczenie w środowisku laboratoryjnym. Chcę szybko zdobywać nową wiedzę i rozwijać się pod okiem mentora. Szukam praktyk, nawet nieodpłatnych, by móc wykorzystać swoje umiejętności w realnych projektach. Wierzę, że dzięki współpracy z doświadczonymi specjalistami osiągnę poziom, który pozwoli mi w przyszłości samodzielnie prowadzić zaawansowane testy penetracyjne.
+Jestem  pełnym zapału entuzjastą cyberbezpieczeństwa. Pomimo że na ten moment nie tworzę własnych programów od podstaw i korzystam z gotowych narzędzi, to jednak posiadam solidną podstawę teoretyczną (solinę podstawę) oraz doświadczenie w środowisku laboratoryjnym. Chcę szybko zdobywać nową wiedzę i rozwijać się pod okiem mentora. Szukam praktyk, nawet nieodpłatnych, by móc wykorzystać swoje umiejętności w realnych projektach. Wierzę, że dzięki współpracy z doświadczonymi specjalistami osiągnę poziom, który pozwoli mi w przyszłości samodzielnie prowadzić zaawansowane testy penetracyjne.
 
 > **Hydra John** – mój zestaw narzędzi do ataków brute-force i łamania haseł, skonfigurowany do szybkich testów na środowiskach wirtualnych.  
 
